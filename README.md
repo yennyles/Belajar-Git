@@ -17,3 +17,8 @@ Set URL
 git remote add origin https://ALAMAT/NAMAREPO.git 
 push
 git push -u origin "namabranch" >> nama branch default master, bisa lain2
+
+
+##Referensi :
+https://www.petanikode.com/tutorial/git/
+https://medium.com/aisy-rozsidhy/tutorial-penggunaan-github-untuk-pemula-part-1-upload-file-ke-github-e807df4e9ecc
